@@ -43,8 +43,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Sphere Engine handbook'
-copyright = u'2014, Sphere Research Team'
+project = u'Sphere Engine documentation'
+copyright = u'2015, Sphere Research Team'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the

@@ -3,23 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Sphere Engine - official handbook
-=================================
+Sphere Engine documentation
+===========================
 
 Contents:
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 4
 
-   content/welcome.rst
-   content/introduction.rst
-   
+   content/compilers.rst
    content/problems.rst
-   content/problem-example.rst
-
-   content/judges.rst
-   content/writing-judges.rst
-   
-   content/appendix.rst
-
 
